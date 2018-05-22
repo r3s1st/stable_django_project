@@ -31,7 +31,8 @@ DEBUG = True
 ALLOWED_HOSTS = ['stable_project2.herokuapp.com',
                  'localhost',
                  'stable_projectclimbing.com',
-                 'www.stable_projectclimbing.com']
+                 'www.stable_projectclimbing.com'
+                 'first-her.herokuapp.com']
 
 # Application definition
 
